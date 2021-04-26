@@ -1,1 +1,1 @@
-MsgBox("Hacked by Bamboula" ,36, "Hacked")
+x=MsgBox("Hacked by Bamboula" ,36, "Hacked")
